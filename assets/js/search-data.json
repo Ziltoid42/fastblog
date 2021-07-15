@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "&gt; &quot;Awesome summary&quot; - toc: true - branch: master - badges: true - comments: true - author: Ziltoid - categories: [fastpages, jupyter] . Test of markdown text . Test image: ![](my_icons/test.jpg) . Gif test: :+1:! .",
-            "url": "https://ziltoid42.github.io/fastblog/2021/07/15/test2.html",
-            "relUrl": "/2021/07/15/test2.html",
+            "title": "Test2",
+            "content": "Test of markdown text . hidden input . Test image: . Gif test: :+1:! .",
+            "url": "https://ziltoid42.github.io/fastblog/fastpages/jupyter/2021/07/15/test2.html",
+            "relUrl": "/fastpages/jupyter/2021/07/15/test2.html",
             "date": " • Jul 15, 2021"
         }
         
