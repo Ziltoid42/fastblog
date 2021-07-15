@@ -1,0 +1,1 @@
+Sitemap: https://ziltoid42.github.io/fastblog/sitemap.xml
